@@ -1,9 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.9.29)  29 SEP 2026 14:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.9.29)  30 SEP 2026 15:09
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**./cv.tex
-(cv.tex
+**c:/Users/AlixSV/Documents/AlixXATDI/Admin/CV/CV/Template_CV_ASV/cv.tex
+(c:/Users/AlixSV/Documents/AlixXATDI/Admin/CV/CV/Template_CV_ASV/cv.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
 (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -22,74 +23,52 @@ File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen148
-)
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+) (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/parskip\parskip.sty
+) (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/parskip\parskip.sty
 Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
-
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.st
-y
+ (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
  (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
-) (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.st
-y
+) (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
-)
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.st
-y
+) (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-))
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+)) (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count283
 )) (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
 Package: color 2025/01/14 v1.3e Standard LaTeX Color (DPC)
-
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+ (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
-
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.de
-f
+ (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
-)
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx
-))
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+) (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)) (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
-
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+ (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
-
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+ (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
-)
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.
-cfg
+) (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 106.
 )
 \Gin@req@height=\dimen149
 \Gin@req@width=\dimen150
-)
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+) (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
-
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+ (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 274.
 LaTeX Info: Redefining \color on input line 762.
-
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx
-)
+ (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
 Package xcolor Info: Model `RGB' extended on input line 1365.
@@ -99,16 +78,13 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
-)
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.def
+) (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
-) (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.st
-y
+) (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2026/03/07 v6.0 Page Geometry
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+ (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+ (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 ))
 \Gm@cnth=\count284
@@ -123,12 +99,9 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \Gm@layouthoffset=\dimen157
 \Gm@layoutvoffset=\dimen158
 \Gm@dimlist=\toks18
-
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)
-) (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+ (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
 Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
-
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+ (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
 \col@sep=\dimen159
 \ar@mcellbox=\box53
@@ -145,8 +118,7 @@ Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
 \TX@delta=\dimen165
 \TX@cols=\count287
 \TX@ftn=\toks20
-)
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+) (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2025/02/06 v3.11 Customized lists
 \labelindent=\skip53
 \enit@outerparindent=\dimen166
@@ -154,9 +126,7 @@ Package: enumitem 2025/02/06 v3.11 Customized lists
 \enit@inbox=\box55
 \enit@count@id=\count288
 \enitdp@description=\count289
-)
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/supertabular\supertabu
-lar.sty
+) (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/supertabular\supertabular.sty
 Package: supertabular 2025/06/26 v4.2d the supertabular environment
 \c@tracingst=\count290
 \ST@wd=\dimen167
@@ -175,8 +145,7 @@ Package: supertabular 2025/06/26 v4.2d the supertabular environment
 \ST@pbox=\box56
 )
 \fullcollw=\skip57
-
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+ (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \ttl@box=\box57
 \beforetitleunit=\skip58
@@ -257,38 +226,28 @@ Package: multicol 2025/10/21 v2.0b multicolumn formatting (FMi)
 \colbreak@box=\box103
 \mc@col@check@num=\count300
 \g__mc_curr_col_int=\count301
-)
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+) (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
 Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
 \multirow@colwidth=\skip62
 \multirow@cntb=\count302
 \multirow@dima=\skip63
 \bigstrutjot=\dimen191
-) (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.st
-y
+) (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
 Package: biblatex 2025/07/10 v3.21 programmable bibliographies (PK/MW)
-
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmd
-s.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.
-sty
+ (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-)
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+) (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count303
-
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+ (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
-))
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+)) (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 )
 \c@tabx@nest=\count304
@@ -350,8 +309,7 @@ Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 \c@mincompwidth=\count349
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
-
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+ (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
 File: blx-dm.def 2025/07/10 v3.21 biblatex datamodel (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
@@ -442,15 +400,12 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \localshorteditorwidth=\skip85
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
-
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.de
-f
+ (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
 File: blx-compat.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
-
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+ (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
 File: biblatex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
 \c@textcitecount=\count418
 \c@textcitetotal=\count419
@@ -468,24 +423,18 @@ File: biblatex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load bibliography style 'authoryear'...
 Package biblatex Info: ... file 'authoryear.bbx' found.
-
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\authoryea
-r.bbx
+ (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\authoryear.bbx
 File: authoryear.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
-
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.
-bbx
+ (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
 File: standard.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
 \c@bbx:relatedcount=\count427
 \c@bbx:relatedtotal=\count428
 ))
 Package biblatex Info: Trying to load citation style 'authoryear'...
 Package biblatex Info: ... file 'authoryear.cbx' found.
-
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\authoryea
-r.cbx
+ (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\authoryear.cbx
 File: authoryear.cbx 2025/07/10 v3.21 biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
@@ -497,17 +446,14 @@ Package biblatex Info: Redefining '\textcites'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
-
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+ (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
 File: biblatex.cfg 
 )
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+ (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
 Package: expl3 2025-12-24 L3 programming layer (loader) 
-
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pd
-ftex.def
+ (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count429
 ))
@@ -515,60 +461,41 @@ Package biblatex Info: ... and expl3
 (biblatex)             2025-12-24 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
-
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl
-3.sty
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpar
-se.sty
+ (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
 Package: xparse 2025-10-09 L3 Experimental document command parser
 )
 Package: blx-case-expl3 2025/07/10 v3.21 expl3 case changing code for biblatex
-))
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+)) (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
-
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefin
-ekeys.sty
+ (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-)
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.
-sty
+) (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-)
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+) (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-)
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+) (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
-
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+ (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-)
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\getti
-tlestring.sty
+) (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count430
-)
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.
-sty
-Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
-)
+) (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
 \@linkdim=\dimen192
 \Hy@linkcounter=\count431
 \Hy@pagecounter=\count432
-
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+ (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-)
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+) (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count433
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+ (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -585,14 +512,10 @@ Package hyperref Info: Bookmarks ON on input line 4462.
 \c@Hy@tempcnt=\count434
 LaTeX Info: Redefining \url on input line 4801.
 \XeTeXLinkMargin=\dimen193
-
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+ (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
-
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcal
-c.sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
-)
+ (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 \Fld@menulength=\count435
 \Field@Width=\dimen194
@@ -609,43 +532,28 @@ Package hyperref Info: PDF/A mode OFF on input line 6108.
 \c@Hfootnote=\count438
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
-
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+ (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
 File: hpdftex.def 2025-07-12 v7.01o Hyperref driver for pdfTeX
 \Fld@listcount=\count439
 \c@bookmark@seq@number=\count440
-
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfi
-lecheck.sty
+ (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
 Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
-
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\unique
-counter.sty
+ (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-84.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
 )
 \Hy@SectionHShift=\skip86
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 90.
 Package hyperref Info: Option `breaklinks' set `true' on input line 90.
-
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontaweso
-me5.sty
+ (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesome5.sty
 Package: fontawesome5 2022/05/02 v5.15.4 Font Awesome 5
-
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3
-keys2e.sty
+ (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty
 Package: l3keys2e 2025-10-09 LaTeX2e option processing using LaTeX3 keys
-)
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontaweso
-me5-generic-helper.sty
-Package: fontawesome5-generic-helper 2022/05/02 v5.15.4 non-uTeX helper for fon
-tawesome5
-
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontaweso
-me5-mapping.def)))
+) (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesome5-generic-helper.sty
+Package: fontawesome5-generic-helper 2022/05/02 v5.15.4 non-uTeX helper for fontawesome5
+ (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesome5-mapping.def)))
 \@quotelevel=\count441
 \@quotereset=\count442
  (cv.aux)
@@ -669,9 +577,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 129.
 LaTeX Font Info:    ... okay on input line 129.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 129.
 LaTeX Font Info:    ... okay on input line 129.
-
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.m
-kii
+ (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count443
 \scratchdimen=\dimen196
@@ -684,15 +590,10 @@ kii
 \MPnumerator=\count447
 \makeMPintoPDFobject=\count448
 \everyMPtoPDFconversion=\toks24
-)
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-
-base.sty
+) (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.
-cfg
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 *geometry* driver: auto-detecting
@@ -731,9 +632,7 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
-
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.l
-bx
+(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
 File: english.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
 )
 Package biblatex Info: Input encoding 'utf8' detected.
@@ -751,58 +650,31 @@ Package hyperref Info: Link coloring ON on input line 129.
 \@outlinefile=\write4
 \openout4 = `cv.out'.
 
+ (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomebrands0.fd) (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree1.fd) [1
 
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawes
-omebrands0.fd)
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawes
-omefree1.fd)
-(C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawes
-omefree2.fd)
-\blx@maxsegment@1=\count449
-\blx@sectionciteorder@1=\count450
-Package biblatex Info: Reference section=1 on input line 194.
-Package biblatex Info: Setting label 'refsection:1' on input line 194.
-Package biblatex Info: Reference section=0 on input line 197.
- [1
-
-{C:/Users/AlixSV/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Ali
-xSV/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{
-C:/Users/AlixSV/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5f
-ree1.enc}{C:/Users/AlixSV/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawe
-some5/fa5free2.enc}] (cv.aux)
+{C:/Users/AlixSV/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/AlixSV/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{C:/Users/AlixSV/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc}] [2] (cv.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
 Package rerunfilecheck Info: File `cv.out' has not changed.
-(rerunfilecheck)             Checksum: CEECA6C4CCD84EED53AB6EC6AE783C81;606.
+(rerunfilecheck)             Checksum: 58D17E629E86CA957A9233D83313F9AA;648.
 Package logreq Info: Writing requests to 'cv.run.xml'.
 \openout1 = `cv.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21012 strings out of 467871
- 384401 string characters out of 5417892
- 1232719 words of memory out of 5000000
- 49679 multiletter control sequences out of 15000+600000
- 633417 words of font info for 59 fonts, out of 8000000 for 9000
+ 20769 strings out of 467871
+ 379373 string characters out of 5417892
+ 1239597 words of memory out of 5000000
+ 49442 multiletter control sequences out of 15000+600000
+ 632626 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 63i,9n,84p,1197b,1342s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/AlixSV/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome
-5/FontAwesome5Brands-Regular.pfb><C:/Users/AlixSV/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/AlixSV/Ap
-pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users
-/AlixSV/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pf
-b><C:/Users/AlixSV/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
-/cmr10.pfb><C:/Users/AlixSV/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
-sfonts/cm/cmr12.pfb><C:/Users/AlixSV/AppData/Local/Programs/MiKTeX/fonts/type1/
-public/amsfonts/cm/cmr17.pfb><C:/Users/AlixSV/AppData/Local/Programs/MiKTeX/fon
-ts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/AlixSV/AppData/Local/Programs/
-MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/AlixSV/AppData/Local
-/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on cv.pdf (1 page, 146302 bytes).
+ 63i,9n,84p,1259b,803s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\AlixSV\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/AlixSV/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/AlixSV/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/AlixSV/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/AlixSV/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/AlixSV/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/AlixSV/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/AlixSV/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on cv.pdf (2 pages, 98854 bytes).
 PDF statistics:
- 109 PDF objects out of 1000 (max. 8388607)
- 10 named destinations out of 1000 (max. 500000)
- 49 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 88 PDF objects out of 1000 (max. 8388607)
+ 8 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
