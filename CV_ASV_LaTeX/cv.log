@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.9.29)  30 SEP 2026 15:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.9.29)  5 OCT 2026 12:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/AlixSV/Documents/AlixXATDI/Admin/CV/CV/Template_CV_ASV/cv.tex
-(c:/Users/AlixSV/Documents/AlixXATDI/Admin/CV/CV/Template_CV_ASV/cv.tex
+**c:/Users/AlixSV/Documents/AlixXATDI/Admin/CV/CV/CV_ASV_LaTeX/cv.tex
+(c:/Users/AlixSV/Documents/AlixXATDI/Admin/CV/CV/CV_ASV_LaTeX/cv.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
 (C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -665,16 +665,16 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  20769 strings out of 467871
- 379373 string characters out of 5417892
+ 379343 string characters out of 5417892
  1237597 words of memory out of 5000000
  49442 multiletter control sequences out of 15000+600000
  632626 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 63i,9n,84p,1259b,803s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 63i,9n,84p,1256b,803s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\AlixSV\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/AlixSV/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/AlixSV/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/AlixSV/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/AlixSV/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/AlixSV/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/AlixSV/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/AlixSV/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on cv.pdf (2 pages, 99057 bytes).
+Output written on cv.pdf (2 pages, 100389 bytes).
 PDF statistics:
- 88 PDF objects out of 1000 (max. 8388607)
+ 90 PDF objects out of 1000 (max. 8388607)
  8 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 

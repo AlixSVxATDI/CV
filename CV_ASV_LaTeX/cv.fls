@@ -1,6 +1,6 @@
-PWD c:\Users\AlixSV\Documents\AlixXATDI\Admin\CV\CV\Template_CV_ASV
+PWD c:\Users\AlixSV\Documents\AlixXATDI\Admin\CV\CV\CV_ASV_LaTeX
 INPUT C:\Users\AlixSV\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\AlixSV\Documents\AlixXATDI\Admin\CV\CV\Template_CV_ASV\cv.tex
+INPUT c:\Users\AlixSV\Documents\AlixXATDI\Admin\CV\CV\CV_ASV_LaTeX\cv.tex
 OUTPUT cv.log
 INPUT C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\AlixSV\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
